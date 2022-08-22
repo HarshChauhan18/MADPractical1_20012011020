@@ -8,8 +8,6 @@ fun main() {
     val div = AO('/',2222,111)
     println(div)
 }
-
-
 fun AO(o:Char,vararg numArray: Int):String?{
     when(o){
         '+' -> {
