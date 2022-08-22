@@ -9,5 +9,4 @@ fun main() {
     println("Integer Value1 (From String):${b.toInt()}")
     println("Integer Value2 (From String):${c.toInt()}")
     println("Double Value (From String):${d.toDouble()}")
-
 }
