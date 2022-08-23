@@ -27,9 +27,9 @@ class Laptop(name: String,quantity: Int,price : Int,cName:String,rSize:String):P
 
 fun main(){
     var laptops = ArrayList<Laptop>()
-    laptops.add(Laptop("Acer",5,75000,"Intel","8GB","1TB"))
-    laptops.add(Laptop("Lenovo",2,25000,"Intel","4GB","512GB"))
-    laptops.add(Laptop("Apple",10,90000,"Intel Duo","8GB","256GB"))
-    laptops.add(Laptop("HP",4,45000,"AMD","8GB","512GB"))
-    laptops.add(Laptop("DELL",8,51000,"AMD","4GB","2TB"))
+    laptops.add(Laptop("Apple",5,100000,"Intel","8GB","1TB"))
+    laptops.add(Laptop("HP",2,70000,"Intel","4GB","512GB"))
+    laptops.add(Laptop("Acer",10,80000,"Intel Duo","8GB","256GB"))
+    laptops.add(Laptop("Dell",4,50000,"AMD","8GB","512GB"))
+    laptops.add(Laptop("Asus",8,35000,"AMD","4GB","2TB"))
 }
