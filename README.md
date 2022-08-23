@@ -33,3 +33,22 @@ Integer to Double, String to Integer, String to Double.
 11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 ![image](https://user-images.githubusercontent.com/107744227/186055122-8cc013e3-2e37-4f7b-a7fe-38493a11785c.png)
 
+Exercise:
+
+1. Swap Value of two variables without using third variable and with using third variable.
+![image](https://user-images.githubusercontent.com/107744227/186220159-b3f38df8-83c2-4c69-98a9-398aeeeb3abd.png)
+
+2. Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
+Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
+Create primary and secondary Constructor of both class. 
+If Primary constructor is there then can we create secondary constructor in inheritance? 
+If we can create secondary and primary constructor both in child class then what is restriction if parent have more than two different secondary constructor? 
+Create List of 5 laptops in ArrayList and display all objects information
+![image](https://user-images.githubusercontent.com/107744227/186221914-a57ef9a9-7665-486e-9c88-4360664389ab.png)
+
+3. Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
+Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
+Create primary and secondary Constructor of both class. 
+Create List of 5 students in ArrayList and display all objects information.
+![image](https://user-images.githubusercontent.com/107744227/186222729-63276cc5-cb3c-41b9-846b-85157926ea23.png)
+
